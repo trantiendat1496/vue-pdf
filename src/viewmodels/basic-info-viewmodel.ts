@@ -1,0 +1,5 @@
+export class BasicInfoViewModel {
+  constructor() {
+    //
+  }
+}

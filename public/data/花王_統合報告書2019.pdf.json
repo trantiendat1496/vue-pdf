@@ -1,0 +1,215 @@
+[
+    {
+        "model": {
+            "name": "ISAS",
+            "area": []
+        },
+        "hl": [
+            {
+                "label": "39",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王は、“よきモノづくり”を通じて社会に...",
+                "fixed": false,
+                "sid": "93g8woxcf8p1",
+                "pageNo": 21,
+                "position": {
+                    "top": 511,
+                    "left": 75,
+                    "width": 358,
+                    "height": 258
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王のコンプライアンス活動DoCheck...",
+                "fixed": false,
+                "sid": "hqeq8jowzuc0",
+                "pageNo": 22,
+                "position": {
+                    "top": 914,
+                    "left": 89,
+                    "width": 745,
+                    "height": 257
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "41",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "制度・評価制度・教育体系・報酬ポリシーに...",
+                "fixed": false,
+                "sid": "9rnoand0d5vb",
+                "pageNo": 21,
+                "position": {
+                    "top": 833,
+                    "left": 445,
+                    "width": 353,
+                    "height": 100
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "42",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "独自性のある人財育成・社風づくり花王の組...",
+                "fixed": false,
+                "sid": "c0kk6p3dtikw",
+                "pageNo": 21,
+                "position": {
+                    "top": 168,
+                    "left": 974,
+                    "width": 719,
+                    "height": 460
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "3",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "コンプライアンス推進体制花王には、グルー...",
+                "fixed": false,
+                "sid": "q18xnolwux4f",
+                "pageNo": 22,
+                "position": {
+                    "top": 701,
+                    "left": 84,
+                    "width": 715,
+                    "height": 186
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "●特に通報・相談の多いコンプライアンス違...",
+                "fixed": false,
+                "sid": "g42trco0jadm",
+                "pageNo": 22,
+                "position": {
+                    "top": 609,
+                    "left": 984,
+                    "width": 337,
+                    "height": 306
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "て重要なコンプライアンスリスクとしたSN...",
+                "fixed": false,
+                "sid": "3l24tbk4uia3",
+                "pageNo": 22,
+                "position": {
+                    "top": 291,
+                    "left": 1358,
+                    "width": 343,
+                    "height": 149
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "●通報・相談案件の分析から読み取れる課題...",
+                "fixed": false,
+                "sid": "lj6fcv2wykgp",
+                "pageNo": 22,
+                "position": {
+                    "top": 451,
+                    "left": 1355,
+                    "width": 340,
+                    "height": 397
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "56",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "めざす姿項目実績目標実績目標201420...",
+                "fixed": false,
+                "sid": "3pl9lgr3g6ht",
+                "pageNo": 34,
+                "position": {
+                    "top": 206,
+                    "left": 180,
+                    "width": 583,
+                    "height": 128
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "57",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "めざす姿項目実績目標実績目標201420...",
+                "fixed": false,
+                "sid": "4mawq8bz23wr",
+                "pageNo": 34,
+                "position": {
+                    "top": 206,
+                    "left": 180,
+                    "width": 583,
+                    "height": 128
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "5",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "めざす姿項目実績目標実績20142015...",
+                "fixed": false,
+                "sid": "7k5zjaagwp2v",
+                "pageNo": 34,
+                "position": {
+                    "top": 731,
+                    "left": 1091,
+                    "width": 520,
+                    "height": 144
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "89",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "思いやりのある選択を社会のためにサステナ...",
+                "fixed": false,
+                "sid": "5lpmeo4qqj29",
+                "pageNo": 15,
+                "position": {
+                    "top": 751,
+                    "left": 659,
+                    "width": 1014,
+                    "height": 297
+                },
+                "type": "AREA"
+            }
+        ],
+        "version": "202010"
+    }
+]

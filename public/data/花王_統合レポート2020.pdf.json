@@ -1,0 +1,356 @@
+[
+  {
+    "model": {
+      "name": "ISAS",
+      "area": []
+    },
+    "hl": [
+      {
+        "label": "78",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "",
+        "fixed": false,
+        "sid": "a6tebqzdltu3",
+        "pageNo": 9,
+        "position": {
+          "top": 680,
+          "left": 987,
+          "width": 716,
+          "height": 41
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "77",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "CO2排出量の削減率※1（スコープ1・2...",
+        "fixed": false,
+        "sid": "v6r444t8d489",
+        "pageNo": 31,
+        "position": {
+          "top": 400,
+          "left": 184,
+          "width": 626,
+          "height": 129
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "76",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "",
+        "fixed": false,
+        "sid": "o75466r0xpmv",
+        "pageNo": 9,
+        "position": {
+          "top": 680,
+          "left": 985,
+          "width": 721,
+          "height": 43
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "76",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "CO2排出量の削減率※1（スコープ1・2...",
+        "fixed": false,
+        "sid": "3yr1x8l8lm6m",
+        "pageNo": 31,
+        "position": {
+          "top": 401,
+          "left": 181,
+          "width": 629,
+          "height": 125
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "71",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "2.環境・社会面におけるサプライヤーのモ...",
+        "fixed": false,
+        "sid": "2tk90q3jnmbn",
+        "pageNo": 14,
+        "position": {
+          "top": 519,
+          "left": 945,
+          "width": 781,
+          "height": 323
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "57",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "めざす姿項目実績目標実績目標SDGs※7...",
+        "fixed": false,
+        "sid": "v8nbli5200zs",
+        "pageNo": 31,
+        "position": {
+          "top": 329,
+          "left": 158,
+          "width": 652,
+          "height": 198
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "56",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "めざす姿項目実績目標実績目標SDGs※7...",
+        "fixed": false,
+        "sid": "dpjzoelhydjv",
+        "pageNo": 31,
+        "position": {
+          "top": 330,
+          "left": 157,
+          "width": 652,
+          "height": 198
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "55",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "花王は、性別や国籍、人種、年齢、障がいの...",
+        "fixed": false,
+        "sid": "smdjvsmo6ynk",
+        "pageNo": 25,
+        "position": {
+          "top": 228,
+          "left": 966,
+          "width": 359,
+          "height": 193
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "53",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "",
+        "fixed": false,
+        "sid": "0tll6nt9x7a5x",
+        "pageNo": 24,
+        "position": {
+          "top": 401,
+          "left": 69,
+          "width": 741,
+          "height": 275
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "45",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "花王は、性別や国籍、人種、年齢、障がいの...",
+        "fixed": false,
+        "sid": "y17xm8g1rx6k",
+        "pageNo": 25,
+        "position": {
+          "top": 226,
+          "left": 966,
+          "width": 357,
+          "height": 198
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "42",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "次世代のリーダー育成プログラム花王が継続...",
+        "fixed": false,
+        "sid": "8salime046tb",
+        "pageNo": 25,
+        "position": {
+          "top": 153,
+          "left": 56,
+          "width": 770,
+          "height": 452
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "33",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "",
+        "fixed": false,
+        "sid": "zgq8mstdzae6",
+        "pageNo": 9,
+        "position": {
+          "top": 997,
+          "left": 987,
+          "width": 723,
+          "height": 57
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "28",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "",
+        "fixed": false,
+        "sid": "qrpghfm5oqjw",
+        "pageNo": 28,
+        "position": {
+          "top": 792,
+          "left": 974,
+          "width": 729,
+          "height": 79
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "16",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "中長期的な企業価値向上のための人財施策",
+        "fixed": false,
+        "sid": "6lr91riwx8z3",
+        "pageNo": 23,
+        "position": {
+          "top": 761,
+          "left": 962,
+          "width": 737,
+          "height": 433
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "5",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "す項目実績目標実績目標SDGs20152...",
+        "fixed": false,
+        "sid": "4jl6kpzj6ii5",
+        "pageNo": 31,
+        "position": {
+          "top": 729,
+          "left": 1093,
+          "width": 616,
+          "height": 135
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "4",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "　通報・相談案件を含めコンプライアンス案...",
+        "fixed": false,
+        "sid": "2ptuu4vokwys",
+        "pageNo": 41,
+        "position": {
+          "top": 800,
+          "left": 1408,
+          "width": 301,
+          "height": 215
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "4",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "　コンプライアンス委員会が、活動方針、年...",
+        "fixed": false,
+        "sid": "lg2pjua0zroy",
+        "pageNo": 41,
+        "position": {
+          "top": 154,
+          "left": 943,
+          "width": 778,
+          "height": 454
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "3",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "コンプライアンス通報への対応プロセス",
+        "fixed": false,
+        "sid": "9md39vho61ka",
+        "pageNo": 41,
+        "position": {
+          "top": 640,
+          "left": 963,
+          "width": 425,
+          "height": 381
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "3",
+        "acc": "指定",
+        "offset": 0,
+        "length": 0,
+        "text": "　花王は、不正の早期発見のため、さまざま...",
+        "fixed": false,
+        "sid": "f18p0k6wwmnx",
+        "pageNo": 41,
+        "position": {
+          "top": 682,
+          "left": 1414,
+          "width": 301,
+          "height": 118
+        },
+        "type": "AREA"
+      },
+      {
+        "label": "64",
+        "acc": "指定",
+        "offset": 8239,
+        "length": 32,
+        "text": "花王は2018年度にTCFDがまとめた提言に賛同を表明しました。",
+        "ext_text": "花王は2018年度にTCFDがまとめた提言に賛同を表明しました。",
+        "fixed": false,
+        "sid": "1xkuz8ak4ltp",
+        "pageNo": 11
+      },
+      {
+        "label": "40",
+        "acc": "指定",
+        "offset": 27738,
+        "length": 100,
+        "text": "花王は、社員一人ひとりが持つ無限の可能性を引き出し、大きな活力を生み出すとともに、その活力を最大限に活かすことをめざして、幅広い挑戦の機会と学びの機会を提供することにより、社員の成長を支援しています。",
+        "ext_text": "花王は、社員一人ひとりが持つ無限の可能性を引き出し、大きな活力を生み出すとともに、その活力を最大限に活かすことをめざして、幅広い挑戦の機会と学びの機会を提供することにより、社員の成長を支援しています。",
+        "fixed": false,
+        "sid": "h6ctfxq40z1z",
+        "pageNo": 24
+      }
+    ],
+    "version": "202010"
+  }
+]

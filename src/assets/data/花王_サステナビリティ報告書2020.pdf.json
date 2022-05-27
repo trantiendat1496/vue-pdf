@@ -1,0 +1,1488 @@
+[
+    {
+        "model": {
+            "name": "ISAS",
+            "area": []
+        },
+        "hl": [
+            {
+                "label": "94",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2017年2018年2019年1.購入し...",
+                "fixed": false,
+                "sid": "c23ngtpra3qz",
+                "pageNo": 88,
+                "position": {
+                    "top": 289,
+                    "left": 410,
+                    "width": 344,
+                    "height": 377
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "92",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "また、このアセスメント結果をサプライヤー...",
+                "fixed": false,
+                "sid": "2g6ebkah08s6",
+                "pageNo": 77,
+                "position": {
+                    "top": 494,
+                    "left": 785,
+                    "width": 345,
+                    "height": 155
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "89",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "サプライヤーのモニタリングにSedexを...",
+                "fixed": false,
+                "sid": "kz2fgljebwp5",
+                "pageNo": 77,
+                "position": {
+                    "top": 111,
+                    "left": 789,
+                    "width": 341,
+                    "height": 692
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "83",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "「2030年までに達成したい姿」を実現す...",
+                "fixed": false,
+                "sid": "z1numphwdip9",
+                "pageNo": 83,
+                "position": {
+                    "top": 392,
+                    "left": 40,
+                    "width": 349,
+                    "height": 281
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "78",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2030年長期目標項目対象範囲2030年...",
+                "fixed": false,
+                "sid": "dbf2doe4uzwd",
+                "pageNo": 86,
+                "position": {
+                    "top": 613,
+                    "left": 44,
+                    "width": 349,
+                    "height": 183
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "77",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2025年中期目標項目対象範囲2025年...",
+                "fixed": false,
+                "sid": "ziqr4sux8lxj",
+                "pageNo": 86,
+                "position": {
+                    "top": 506,
+                    "left": 31,
+                    "width": 367,
+                    "height": 95
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "76",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2020年目標花王グループの全拠点におけ...",
+                "fixed": false,
+                "sid": "qxlaxxp9wb9d",
+                "pageNo": 86,
+                "position": {
+                    "top": 156,
+                    "left": 34,
+                    "width": 357,
+                    "height": 188
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "70",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "環境法規制遵守状況区分単位2017年20...",
+                "fixed": false,
+                "sid": "z6h5idonrufa",
+                "pageNo": 126,
+                "position": {
+                    "top": 599,
+                    "left": 767,
+                    "width": 349,
+                    "height": 155
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "67",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "環境法規制の遵守2019年の環境法規制の...",
+                "fixed": false,
+                "sid": "g8f26khkc9az",
+                "pageNo": 126,
+                "position": {
+                    "top": 536,
+                    "left": 763,
+                    "width": 323,
+                    "height": 50
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "62",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "「2030年までに達成したい姿」を実現す...",
+                "fixed": false,
+                "sid": "ui099vo85s1t",
+                "pageNo": 83,
+                "position": {
+                    "top": 386,
+                    "left": 28,
+                    "width": 361,
+                    "height": 287
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "61",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "気候変動は現在並びに将来世代の「豊かな生...",
+                "fixed": false,
+                "sid": "d17rrzfpp47r",
+                "pageNo": 83,
+                "position": {
+                    "top": 163,
+                    "left": 409,
+                    "width": 360,
+                    "height": 595
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "60",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王は2℃シナリオ※1と4℃シナリオ※2...",
+                "fixed": false,
+                "sid": "u4uh36l6qcgc",
+                "pageNo": 83,
+                "position": {
+                    "top": 135,
+                    "left": 44,
+                    "width": 347,
+                    "height": 255
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "59",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2017年2018年2019年日本173...",
+                "fixed": false,
+                "sid": "uim54ztspwz8",
+                "pageNo": 88,
+                "position": {
+                    "top": 288,
+                    "left": 69,
+                    "width": 332,
+                    "height": 140
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "58",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2017年2018年2019年日本271...",
+                "fixed": false,
+                "sid": "rzn40fra51qe",
+                "pageNo": 88,
+                "position": {
+                    "top": 138,
+                    "left": 64,
+                    "width": 342,
+                    "height": 137
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "53",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "LGBT研修LGBTに関する社員の理解促...",
+                "fixed": false,
+                "sid": "j1a3cegxctud",
+                "pageNo": 164,
+                "position": {
+                    "top": 748,
+                    "left": 411,
+                    "width": 352,
+                    "height": 61
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "53",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "員を対象としたeラーニング、研修・講演会...",
+                "fixed": false,
+                "sid": "qphtbfdhlwc7",
+                "pageNo": 164,
+                "position": {
+                    "top": 255,
+                    "left": 776,
+                    "width": 368,
+                    "height": 344
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "52",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "また、属性（国籍、性別、性的指向、性自認...",
+                "fixed": false,
+                "sid": "a5ft1rs0ddwj",
+                "pageNo": 161,
+                "position": {
+                    "top": 671,
+                    "left": 46,
+                    "width": 350,
+                    "height": 132
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "49",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "方針花王は「労働安全衛生」の活動方針を、...",
+                "fixed": false,
+                "sid": "wpduiznq2hpq",
+                "pageNo": 184,
+                "position": {
+                    "top": 380,
+                    "left": 409,
+                    "width": 353,
+                    "height": 279
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "45",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "また、属性（国籍、性別、性的指向、性自認...",
+                "fixed": false,
+                "sid": "kf6ywyx87bvs",
+                "pageNo": 161,
+                "position": {
+                    "top": 671,
+                    "left": 48,
+                    "width": 345,
+                    "height": 129
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "43",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "キャリア自律サポート花王（株）では45歳...",
+                "fixed": false,
+                "sid": "j23g802cwmku",
+                "pageNo": 166,
+                "position": {
+                    "top": 573,
+                    "left": 413,
+                    "width": 350,
+                    "height": 236
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "42",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "グローバルリーダーの育成グローバルビジネ...",
+                "fixed": false,
+                "sid": "26jgjiattbpk",
+                "pageNo": 157,
+                "position": {
+                    "top": 262,
+                    "left": 43,
+                    "width": 352,
+                    "height": 215
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "42",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "社員への多様な育成支援・「花王ウェイ」や...",
+                "fixed": false,
+                "sid": "dr5zn2btn1pl",
+                "pageNo": 157,
+                "position": {
+                    "top": 490,
+                    "left": 39,
+                    "width": 353,
+                    "height": 340
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "42",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "・日本において60歳以降の働き方を見据え...",
+                "fixed": false,
+                "sid": "fhrqq4exrxmr",
+                "pageNo": 157,
+                "position": {
+                    "top": 264,
+                    "left": 414,
+                    "width": 351,
+                    "height": 105
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "42",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "キャリア開発支援・所属会社や雇用形態にか...",
+                "fixed": false,
+                "sid": "6gr1q1ammjf5",
+                "pageNo": 157,
+                "position": {
+                    "top": 385,
+                    "left": 409,
+                    "width": 355,
+                    "height": 265
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "42",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王グローバル共通プログラム・部門専門プ...",
+                "fixed": false,
+                "sid": "n7iiftrre746",
+                "pageNo": 158,
+                "position": {
+                    "top": 113,
+                    "left": 36,
+                    "width": 910,
+                    "height": 647
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "40",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "ありたき組織像自由闊達な絶えざる革新の風...",
+                "fixed": false,
+                "sid": "x3ih2wli9k3c",
+                "pageNo": 151,
+                "position": {
+                    "top": 174,
+                    "left": 802,
+                    "width": 324,
+                    "height": 467
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "40",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "中長期目標と実績中長期目標社員一人ひとり...",
+                "fixed": false,
+                "sid": "wt52eqaa0mhm",
+                "pageNo": 155,
+                "position": {
+                    "top": 115,
+                    "left": 42,
+                    "width": 757,
+                    "height": 571
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "39",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王グループが“よきモノづくり”を行ない...",
+                "fixed": false,
+                "sid": "7ajfneq8n78l",
+                "pageNo": 151,
+                "position": {
+                    "top": 170,
+                    "left": 424,
+                    "width": 331,
+                    "height": 455
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "39",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "方針花王では、多様な社員それぞれが能力と...",
+                "fixed": false,
+                "sid": "gvd0obf55zsi",
+                "pageNo": 151,
+                "position": {
+                    "top": 101,
+                    "left": 37,
+                    "width": 369,
+                    "height": 506
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "33",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "社員、協力会社ともに、死亡・機能損失災害...",
+                "fixed": false,
+                "sid": "p4964qbxyu9h",
+                "pageNo": 185,
+                "position": {
+                    "top": 239,
+                    "left": 418,
+                    "width": 348,
+                    "height": 103
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "33",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "項目指標対象2017年2018年2019...",
+                "fixed": false,
+                "sid": "a3l88u8omaza",
+                "pageNo": 186,
+                "position": {
+                    "top": 312,
+                    "left": 62,
+                    "width": 1065,
+                    "height": 463
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "33",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "項目指標対象2017年2018年2019...",
+                "fixed": false,
+                "sid": "nc9lwunlbuig",
+                "pageNo": 187,
+                "position": {
+                    "top": 128,
+                    "left": 48,
+                    "width": 1063,
+                    "height": 591
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "33",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "項目対象指標2020年目標労働災害社員・...",
+                "fixed": false,
+                "sid": "jc46e75vj1cv",
+                "pageNo": 188,
+                "position": {
+                    "top": 115,
+                    "left": 37,
+                    "width": 1047,
+                    "height": 301
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "23",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "中長期目標人権デュー・ディリジェンスや啓...",
+                "fixed": false,
+                "sid": "9y6box6geial",
+                "pageNo": 147,
+                "position": {
+                    "top": 162,
+                    "left": 39,
+                    "width": 351,
+                    "height": 335
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "22",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "方針花王は2015年に「花王人権方針」を...",
+                "fixed": false,
+                "sid": "0icrme603st90",
+                "pageNo": 145,
+                "position": {
+                    "top": 571,
+                    "left": 412,
+                    "width": 354,
+                    "height": 177
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "22",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "・2015年に英国において制定・施行され...",
+                "fixed": false,
+                "sid": "0fro2lr2maeii",
+                "pageNo": 148,
+                "position": {
+                    "top": 335,
+                    "left": 68,
+                    "width": 331,
+                    "height": 99
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "20",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "ステークホルダーとの協働／エンゲージメン...",
+                "fixed": false,
+                "sid": "oixl8xyuay1g",
+                "pageNo": 146,
+                "position": {
+                    "top": 346,
+                    "left": 409,
+                    "width": 352,
+                    "height": 183
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "18",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "事業インパクトひとたび人権侵害が起こると...",
+                "fixed": false,
+                "sid": "gjx2muepj964",
+                "pageNo": 147,
+                "position": {
+                    "top": 184,
+                    "left": 412,
+                    "width": 349,
+                    "height": 361
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "18",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "社会的インパクト企業による人権尊重の取り...",
+                "fixed": false,
+                "sid": "sxby8ns3bspk",
+                "pageNo": 147,
+                "position": {
+                    "top": 183,
+                    "left": 780,
+                    "width": 353,
+                    "height": 283
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "18",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "セルフアセスメントの要請とモニタリング2...",
+                "fixed": false,
+                "sid": "cpfvhjxvdjsy",
+                "pageNo": 149,
+                "position": {
+                    "top": 265,
+                    "left": 410,
+                    "width": 353,
+                    "height": 263
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "17",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王内の人権デュー・ディリジェンスに関し...",
+                "fixed": false,
+                "sid": "nzez42cxt67j",
+                "pageNo": 146,
+                "position": {
+                    "top": 570,
+                    "left": 781,
+                    "width": 354,
+                    "height": 207
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2019年の実績実績社内・花王グループ会...",
+                "fixed": false,
+                "sid": "2xodx6yaliww",
+                "pageNo": 148,
+                "position": {
+                    "top": 135,
+                    "left": 69,
+                    "width": 333,
+                    "height": 451
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "サプライチェーン・昨年に引き続き、サプラ...",
+                "fixed": false,
+                "sid": "gkyru0nxmtkh",
+                "pageNo": 148,
+                "position": {
+                    "top": 194,
+                    "left": 419,
+                    "width": 333,
+                    "height": 167
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "消費者・株主・花王の取り組みについてウェ...",
+                "fixed": false,
+                "sid": "she67sinbh5w",
+                "pageNo": 148,
+                "position": {
+                    "top": 381,
+                    "left": 418,
+                    "width": 337,
+                    "height": 221
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "人権啓発活動・「花王ビジネスコンダクトガ...",
+                "fixed": false,
+                "sid": "dl9rn2sg3yc8",
+                "pageNo": 148,
+                "position": {
+                    "top": 188,
+                    "left": 771,
+                    "width": 335,
+                    "height": 367
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "1.社内での取り組み毎年、花王の世界中の...",
+                "fixed": false,
+                "sid": "2s3b4fxhwjof",
+                "pageNo": 149,
+                "position": {
+                    "top": 359,
+                    "left": 38,
+                    "width": 360,
+                    "height": 321
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2.サプライチェーンでの取り組み取引基本...",
+                "fixed": false,
+                "sid": "qpwwni6t9z4s",
+                "pageNo": 149,
+                "position": {
+                    "top": 691,
+                    "left": 40,
+                    "width": 352,
+                    "height": 139
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 195224,
+                "length": 13,
+                "text": "基本契約を締結しています。",
+                "ext_text": "基本契約を締結しています。",
+                "fixed": false,
+                "sid": "cto5l1yges6h",
+                "pageNo": 149
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "社内での人権教育BCGを通じた人権尊重の...",
+                "fixed": false,
+                "sid": "q0jpqkq3b6xm",
+                "pageNo": 149,
+                "position": {
+                    "top": 536,
+                    "left": 413,
+                    "width": 350,
+                    "height": 299
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2019年は説明会や日本の全社員向けの確...",
+                "fixed": false,
+                "sid": "e1id11xzk8ns",
+                "pageNo": 149,
+                "position": {
+                    "top": 205,
+                    "left": 784,
+                    "width": 348,
+                    "height": 91
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "イントラネットを通じた人権尊重の考え方の...",
+                "fixed": false,
+                "sid": "an6y915c0yn9",
+                "pageNo": 149,
+                "position": {
+                    "top": 309,
+                    "left": 787,
+                    "width": 348,
+                    "height": 267
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "14",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王内の人権デュー・ディリジェンスに関し...",
+                "fixed": false,
+                "sid": "lt212xx3rywg",
+                "pageNo": 146,
+                "position": {
+                    "top": 571,
+                    "left": 782,
+                    "width": 347,
+                    "height": 131
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "●リスク調査からの課題花王では、コンプラ...",
+                "fixed": false,
+                "sid": "91bzfn5b9yce",
+                "pageNo": 135,
+                "position": {
+                    "top": 105,
+                    "left": 781,
+                    "width": 364,
+                    "height": 564
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "Plan計画／Do実行花王は、代表取締役...",
+                "fixed": false,
+                "sid": "jnr5ce5wyand",
+                "pageNo": 135,
+                "position": {
+                    "top": 108,
+                    "left": 409,
+                    "width": 364,
+                    "height": 396
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "4",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "Check評価社内からの評価●取締役会か...",
+                "fixed": false,
+                "sid": "g7z2i3hjpolv",
+                "pageNo": 135,
+                "position": {
+                    "top": 519,
+                    "left": 409,
+                    "width": 359,
+                    "height": 274
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "77",
+                "acc": "指定",
+                "offset": 107089,
+                "length": 18,
+                "text": "エネルギーと温室効果ガスに関する目標",
+                "ext_text": "エネルギーと温室効果ガスに関する目標",
+                "fixed": false,
+                "sid": "6rs0ojgzbjau",
+                "pageNo": 86
+            },
+            {
+                "label": "19",
+                "acc": "指定",
+                "offset": 191772,
+                "length": 73,
+                "text": "取り組みについては、ESG部門を統括する執行役員を責任者として推進し、年1回、経営会議とその下部組織であるコーポレートコミッティで報告しています。",
+                "ext_text": "取り組みについては、ESG部門を統括する執行役員を責任者として推進し、年1回、経営会議とその下部組織であるコーポレートコミッティで報告しています。",
+                "fixed": false,
+                "sid": "m27mrmx62958",
+                "pageNo": 146
+            },
+            {
+                "label": "16",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "広告や表示における人権尊重（日本）広告や...",
+                "fixed": false,
+                "sid": "5n45n0ws1f38",
+                "pageNo": 149,
+                "position": {
+                    "top": 588,
+                    "left": 781,
+                    "width": 351,
+                    "height": 239
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "45",
+                "acc": "指定",
+                "offset": 198676,
+                "length": 78,
+                "text": "役割・職責を明確にし、一人ひとりの実績を公正に定期的に評価し報酬に反映させることで、雇用形態や性別等、属性による差別のない公正な評価・処遇を行なっています。",
+                "ext_text": "役割・職責を明確にし、一人ひとりの実績を公正に定期的に評価し報酬に反映させることで、雇用形態や性別等、属性による差別のない公正な評価・処遇を行なっています。",
+                "fixed": false,
+                "sid": "ktuwc2ujlzch",
+                "pageNo": 151
+            },
+            {
+                "label": "66",
+                "acc": "指定",
+                "offset": 287549,
+                "length": 55,
+                "text": "本報告書は、気候関連財務情報開示タスクフォース（TCFD）による提言で推奨されている開示項目を参照しています。",
+                "ext_text": "本報告書は、気候関連財務情報開示タスクフォース（TCFD）による提言で推奨されている開示項目を参照しています。",
+                "fixed": false,
+                "sid": "g8ibcj2lccwf",
+                "pageNo": 223
+            },
+            {
+                "label": "3",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "コンプライアンスのPDCAを推進するため...",
+                "fixed": false,
+                "sid": "3n35mcageryh",
+                "pageNo": 134,
+                "position": {
+                    "top": 236,
+                    "left": 594,
+                    "width": 549,
+                    "height": 621
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "5",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "重大なコンプライアンス違反＊件数＊経営に...",
+                "fixed": false,
+                "sid": "qrs6zudcrxkh",
+                "pageNo": 20,
+                "position": {
+                    "top": 452,
+                    "left": 264,
+                    "width": 647,
+                    "height": 33
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "12",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "企業活動のあらゆる側面において人権リスク...",
+                "fixed": false,
+                "sid": "b42639t8shdp",
+                "pageNo": 146,
+                "position": {
+                    "top": 111,
+                    "left": 411,
+                    "width": 350,
+                    "height": 206
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "12",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "ステークホルダーとの協働／エンゲージメン...",
+                "fixed": false,
+                "sid": "qmlp5vvs7idh",
+                "pageNo": 146,
+                "position": {
+                    "top": 347,
+                    "left": 407,
+                    "width": 356,
+                    "height": 181
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "5",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "2019年４月に公表したKireiLif...",
+                "fixed": false,
+                "sid": "xd21fn957wep",
+                "pageNo": 141,
+                "position": {
+                    "top": 469,
+                    "left": 777,
+                    "width": 354,
+                    "height": 339
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "5",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "プライアンス違反の発生はありませんでした...",
+                "fixed": false,
+                "sid": "6qv73pm3sb5t",
+                "pageNo": 142,
+                "position": {
+                    "top": 105,
+                    "left": 39,
+                    "width": 359,
+                    "height": 420
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "6",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "なお、安全管理上のルールに反する行為、窃...",
+                "fixed": false,
+                "sid": "w5orxfuxgd5f",
+                "pageNo": 142,
+                "position": {
+                    "top": 314,
+                    "left": 38,
+                    "width": 359,
+                    "height": 212
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "8",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "205-3確定した腐敗事例と実施した措置...",
+                "fixed": false,
+                "sid": "7pkpg88hh0sp",
+                "pageNo": 214,
+                "position": {
+                    "top": 527,
+                    "left": 316,
+                    "width": 682,
+                    "height": 30
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "15",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "セルフアセスメントの要請とモニタリング2...",
+                "fixed": false,
+                "sid": "8ro5vqe5hvec",
+                "pageNo": 149,
+                "position": {
+                    "top": 264,
+                    "left": 411,
+                    "width": 351,
+                    "height": 264
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "26",
+                "acc": "指定",
+                "offset": 281522,
+                "length": 32,
+                "text": "★情報セキュリティ：「第26回TS・個人情報保護推進会議」を開催",
+                "ext_text": "★情報セキュリティ：「第26回TS・個人情報保護推進会議」を開催",
+                "fixed": false,
+                "sid": "ytrcm3gt4ee8",
+                "pageNo": 218
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "グローバルで安全スローガンを共有グローバ...",
+                "fixed": false,
+                "sid": "56hpo1uzqzsa",
+                "pageNo": 190,
+                "position": {
+                    "top": 105,
+                    "left": 35,
+                    "width": 362,
+                    "height": 242
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "従業員の快適な職場環境すべての職場を快適...",
+                "fixed": false,
+                "sid": "76tipwli6gjh",
+                "pageNo": 190,
+                "position": {
+                    "top": 312,
+                    "left": 409,
+                    "width": 353,
+                    "height": 155
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "地域貢献活動「こども交通安全教室」の開催...",
+                "fixed": false,
+                "sid": "zuv42suzn5q5",
+                "pageNo": 190,
+                "position": {
+                    "top": 489,
+                    "left": 413,
+                    "width": 352,
+                    "height": 320
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "してもらうというもので、安全意識を育むと...",
+                "fixed": false,
+                "sid": "7lxhj85b0gyq",
+                "pageNo": 190,
+                "position": {
+                    "top": 110,
+                    "left": 775,
+                    "width": 360,
+                    "height": 85
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "休業無災害表彰制度による安全意識の向上2...",
+                "fixed": false,
+                "sid": "o3ysifoo3tua",
+                "pageNo": 189,
+                "position": {
+                    "top": 211,
+                    "left": 408,
+                    "width": 356,
+                    "height": 155
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "労働災害発生状況2019年の社員・派遣社...",
+                "fixed": false,
+                "sid": "1mluyqppramt",
+                "pageNo": 189,
+                "position": {
+                    "top": 220,
+                    "left": 32,
+                    "width": 370,
+                    "height": 303
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "34",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "化学物質のリスクアセスメント花王の生産工...",
+                "fixed": false,
+                "sid": "saggat3ng0bm",
+                "pageNo": 189,
+                "position": {
+                    "top": 537,
+                    "left": 32,
+                    "width": 364,
+                    "height": 247
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "46",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "人権を尊重し、児童労働、人身売買、強制労...",
+                "fixed": false,
+                "sid": "ea9fpfknoxp5",
+                "pageNo": 145,
+                "position": {
+                    "top": 209,
+                    "left": 780,
+                    "width": 366,
+                    "height": 215
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "47",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "人権を尊重し、児童労働、人身売買、強制労...",
+                "fixed": false,
+                "sid": "sv935d1iv28a",
+                "pageNo": 145,
+                "position": {
+                    "top": 212,
+                    "left": 778,
+                    "width": 371,
+                    "height": 215
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "50",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "花王（株）再雇用者数2015年2016年...",
+                "fixed": false,
+                "sid": "ko78jyge5ex5",
+                "pageNo": 172,
+                "position": {
+                    "top": 453,
+                    "left": 597,
+                    "width": 543,
+                    "height": 122
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "55",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "中長期目標と実績中長期目標多様性推進はす...",
+                "fixed": false,
+                "sid": "l3rb61g80ush",
+                "pageNo": 163,
+                "position": {
+                    "top": 115,
+                    "left": 44,
+                    "width": 350,
+                    "height": 669
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "60",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "戦略提言：気候関連のリスクおよび機会がも...",
+                "fixed": false,
+                "sid": "jr3agwaih06n",
+                "pageNo": 223,
+                "position": {
+                    "top": 339,
+                    "left": 39,
+                    "width": 545,
+                    "height": 259
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "60",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "項目内容リスク移行リスク政策・法規制水に...",
+                "fixed": false,
+                "sid": "oe6z1b99cxrh",
+                "pageNo": 117,
+                "position": {
+                    "top": 388,
+                    "left": 34,
+                    "width": 1117,
+                    "height": 419
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "61",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "方針花王製品のライフサイクルを通じた水の...",
+                "fixed": false,
+                "sid": "w0x6wrua62c4",
+                "pageNo": 118,
+                "position": {
+                    "top": 110,
+                    "left": 39,
+                    "width": 355,
+                    "height": 699
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "64",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "TCFD提言への賛同　花王は2018年に...",
+                "fixed": false,
+                "sid": "un5k48m5dddq",
+                "pageNo": 5,
+                "position": {
+                    "top": 256,
+                    "left": 882,
+                    "width": 255,
+                    "height": 460
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "22",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "人権を尊重し、児童労働、人身売買、強制労...",
+                "fixed": false,
+                "sid": "s8npe87rb37p",
+                "pageNo": 145,
+                "position": {
+                    "top": 208,
+                    "left": 779,
+                    "width": 367,
+                    "height": 504
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "54",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "D\u0026I推進活動の体制社員厚生委員会、イベ...",
+                "fixed": false,
+                "sid": "nzdjh82gl7we",
+                "pageNo": 162,
+                "position": {
+                    "top": 466,
+                    "left": 405,
+                    "width": 739,
+                    "height": 358
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "91",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "国内機器サプライヤー、間接材サプライヤー...",
+                "fixed": false,
+                "sid": "9z41xucui9ep",
+                "pageNo": 78,
+                "position": {
+                    "top": 106,
+                    "left": 29,
+                    "width": 373,
+                    "height": 292
+                },
+                "type": "AREA"
+            },
+            {
+                "label": "79",
+                "acc": "指定",
+                "offset": 0,
+                "length": 0,
+                "text": "加となります。しかし花王は、CO2排出量...",
+                "fixed": false,
+                "sid": "vncnip309i09",
+                "pageNo": 83,
+                "position": {
+                    "top": 516,
+                    "left": 40,
+                    "width": 351,
+                    "height": 59
+                },
+                "type": "AREA"
+            }
+        ],
+        "version": "202010"
+    }
+]

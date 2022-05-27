@@ -1,0 +1,5 @@
+export class TimeSeriesViewModel {
+  constructor() {
+    //
+  }
+}
